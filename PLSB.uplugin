@@ -2,8 +2,8 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "inveta",
-	"Description": "point/line/area/body",
+	"FriendlyName": "PLSB",
+	"Description": "Point-Line-Surface-Body",
 	"Category": "Other",
 	"CreatedBy": "inveta",
 	"CreatedByURL": "https://github.com/inveta",
@@ -13,5 +13,5 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": true
 }
